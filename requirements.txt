@@ -1,0 +1,17 @@
+ultralytics>=8.2.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.9.0
+albumentations>=1.4.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+onnxruntime>=1.18.0
+numpy>=1.26.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+pyyaml>=6.0
+streamlit>=1.35.0
+plotly>=5.20.0
+scikit-learn>=1.4.0

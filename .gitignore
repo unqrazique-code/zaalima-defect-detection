@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+*.pt
+*.onnx
+*.engine
+data/raw/
+data/augmented/
+runs/
+*.jpg
+*.png
+*.mp4
+!docs/*.png
+.DS_Store
