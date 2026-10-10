@@ -1,0 +1,14 @@
+# NEU Metal Surface Defects — YOLOv8 dataset config
+path: data/processed
+train: train/images
+val:   val/images
+test:  test/images
+
+nc: 6
+names:
+  - crazing
+  - inclusion
+  - patches
+  - pitted_surface
+  - rolled-in_scale
+  - scratches

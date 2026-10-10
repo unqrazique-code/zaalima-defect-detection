@@ -1,0 +1,14 @@
+# NEU Metal Surface Defects — Augmented dataset config
+path: data/augmented
+train: train/images
+val:   ../processed/val/images
+test:  ../processed/test/images
+
+nc: 6
+names:
+  - crazing
+  - inclusion
+  - patches
+  - pitted_surface
+  - rolled-in_scale
+  - scratches
